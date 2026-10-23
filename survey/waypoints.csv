@@ -1,0 +1,8 @@
+waypoint_id,region,priority,enabled,revision
+WP-01,Delta,4,yes,1
+WP-01,Delta,6,yes,2
+WP-02,Ridge,2,yes,1
+WP-03,Delta,5,no,1
+WP-04,Canal,3,yes,1
+WP-04,Canal,03,yes,2
+BROKEN,Marsh,4,yes,3

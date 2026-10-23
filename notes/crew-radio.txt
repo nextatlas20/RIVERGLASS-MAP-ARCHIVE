@@ -1,0 +1,1 @@
+Crew radio transcription is contextual only; do not use it to construct the watch register.
