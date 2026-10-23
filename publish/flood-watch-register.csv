@@ -1,0 +1,4 @@
+sequence,waypoint_id,region,report_id,surveyed_at,water_level_cm,priority,risk_score,alert_band
+1,WP-01,Delta,RP-002,2080-04-05T15:10,45,6,645,warning
+2,WP-04,Canal,RP-004,2080-04-06T11:30,29,3,329,watch
+3,WP-02,Ridge,RP-003,2080-04-04T08:05,18,2,218,watch
